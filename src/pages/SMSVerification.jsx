@@ -17,7 +17,7 @@ const SmsVerificationForm = () => {
     }
   };
   return (
-    <div className='bg-[url("verifybg.png")] bg-cover  bg-no-repeat h-[98vh]'>
+    <div className='bg-[url("/verifybg.png")] bg-cover  bg-no-repeat h-[98vh]'>
       <div className="container mx-auto max-w-2xl py-4 px-4 h-[90vh]">
         <div className="bg-white p-6 md:p-8 rounded-xl shadow-lg border border-gray-200 mb-5">
           <h2 className="text-3xl font-bold text-gray-800 mb-2 text-center">
