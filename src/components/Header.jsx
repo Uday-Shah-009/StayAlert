@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = ({setWork}) => {
   return (
-    <div className='h-[90vh]  w-full bg-[url("fakesmsdetectbg.png")] bg-cover  bg-no-repeat'>
+    <div className='h-[90vh]  w-full bg-[url("/fakesmsdetectbg.png")] bg-cover  bg-no-repeat'>
       <div className="absolute w-full h-[90vh] bg-white/80 rounded-b-[25px] z-10 px-[240px] flex items-center justify-start">
         <div className="flex  flex-col items-start">
           <h1 className="text-[48px] font-bold">
